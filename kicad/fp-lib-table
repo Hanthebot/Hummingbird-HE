@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "hummingbird-he-CustomFoot") (type "KiCad") (uri "${KIPRJMOD}/hummingbird-he-CustomFoot.pretty") (options "") (descr ""))
+)
